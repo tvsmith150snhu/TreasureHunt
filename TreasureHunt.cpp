@@ -41,7 +41,7 @@ int main()
             break;
         }
         else
-            cout << "You do not level up yet.\n";
+            cout << "You do not level up yet.  Try again.\n";
     }
     return 0;
 }
